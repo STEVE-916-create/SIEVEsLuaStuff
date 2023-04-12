@@ -1,4 +1,4 @@
-{
+return {
 	Name="MonkeyEmote",
 	Time=6.5,
 	Animations={
