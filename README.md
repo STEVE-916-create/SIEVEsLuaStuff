@@ -18,7 +18,7 @@ feel free to use
 
 ### how
 
-is it converter? yes, but i made it myself
+is it converter? yes, but i made it myself, but the animations are not mine, they are from FREE MODELS111!11111111
 
 im also not uploading it
 
