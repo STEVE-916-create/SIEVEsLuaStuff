@@ -1,4 +1,4 @@
-{
+return {
 	Name="CatDance",
 	Time=0.7317073170731707,
 	Animations={
