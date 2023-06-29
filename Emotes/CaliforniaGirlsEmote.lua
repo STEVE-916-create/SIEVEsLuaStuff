@@ -1,4 +1,4 @@
-{
+return {
 	Name="CaliforniaGirlsEmote",
 	Time=9.6666666666666,
 	Animations={
